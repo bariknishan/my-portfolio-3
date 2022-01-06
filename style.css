@@ -1,0 +1,115 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+    background: purple;
+    text-align: justify;
+}
+.container p { 
+
+    word-spacing:-1px;
+    line-height: 35px;
+}
+
+h1{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+    color: tomato;
+}
+
+.orange-color{
+    color: orange;
+}
+
+.flex-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.first-part{
+    width: 60%;
+    padding: 5%;
+}
+.first-part img{
+    width: 95%;
+
+    
+}
+.link{
+    background-color: rgb(255, 115, 0);
+    text-align: center;
+    width: 40%;
+    padding: 10px 40px;
+    border-radius: 10px;
+    
+    
+}
+
+.container a {
+text-decoration: none;
+font-weight: bold;
+font-size: 20px;
+font-style: italic;
+}
+
+.container p{
+    font-size: 15px;
+}
+#imgg{
+    padding-right:5px ;
+}
+#ex{
+    /* border: 2px solid black; */
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(226, 98, 13);
+    border-radius: 10px;
+}
+
+.f-part{
+    width: 40%;
+     margin-left:  5%;
+     margin-right: 5%;
+     margin-top: 10%;
+    box-shadow: 5px 5px 30px grey;
+    text-align: center;
+    padding-left:20px ;
+    padding-right:20px;
+    border-right: 10px solid rgb(223, 17, 17);
+}
+.foot{
+    /* border: 2px solid black; */
+    width: 100%;
+    height: 70px;
+    /* background-color: black; */
+    color: white;
+    text-align: center;
+    margin: auto;
+    font-size: 25px;
+    display: inline-block;
+    
+}
+#imgg{
+    padding: 10px;
+    /* height: 70px; */
+    box-shadow: 15px 15px 50px grey;
+}
+#dream{
+    padding: 120px;
+}
+
+#dr{
+    font-size: 40px;
+}
+
+#hh{
+   color: black; 
+}
+#headline{
+    color: antiquewhite;
+}
+#head1{
+color: white;
+}
+
